@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DemoApplication",
+            "request": "launch",
+            "mainClass": "org.sid.zullserver.DemoApplication",
+            "projectName": "zull-server"
+        }
+    ]
+}
